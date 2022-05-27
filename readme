@@ -1,0 +1,8 @@
+content에 url을 통하여 이미지 파일을 직접 불러올 수도 있다.
+
+이번 예제에서 사용되는 siblings()는 title의 형제요소 만을 찾는 것이므로 괄호 안에 siblings(".title")이라고 꼭 써줘야한다.
+
+slideUp(), slideDown(), fadeIn(), fadeOut()은 일반적으로
+stop()과 함께 사용
+
+만약 똑같은 것을 한번 더 눌러서 집어넣고 싶을 때는?
